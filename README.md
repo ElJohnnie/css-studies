@@ -1,4 +1,5 @@
-![image](https://github.com/ElJohnnie/styles-studies/assets/54804502/2d252309-7661-4242-8811-5d1556b6f4b3)
+![image](https://github.com/ElJohnnie/css-studies/assets/54804502/a0d7f116-c8e8-4136-920c-221a6c22357e)
+
 
 ### About repository
 
